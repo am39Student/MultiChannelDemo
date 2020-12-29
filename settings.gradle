@@ -1,0 +1,6 @@
+include ':Demo2'
+include ':Demo1'
+include ':demo2ui'
+include ':demo1ui'
+include ':commonsdk'
+rootProject.name = "MultiChannelDemo"
